@@ -11,4 +11,4 @@ spec:
   ports:
     - port: 80                # Port exposed by the service
       targetPort: 80          # Port on the container
-      nodePort: 30080         # Specific port on the node
+      nodePort: 30081         # Specific port on the node
